@@ -1,4 +1,4 @@
-## Welcome to my GitHub nest, where projects soar and curiosity takes flight!<br> ¡Bienvenidos a mi nido en GitHub, donde los proyectos surcan los cielos y la curiosidad despega!
+## Welcome to my GitHub nest!<br> ¡Bienvenidos a mi nido en GitHub!
 
 <!--
 **CorvusCryptoleucus/CorvusCryptoleucus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
