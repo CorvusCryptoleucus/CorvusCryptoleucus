@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: ...
 --> 
-**English:**
+**English:** 
 
 🐦‍⬛ Welcome to my GitHub roost, where curiosity takes flight and projects soar! Nestled amidst the digital branches, I'm here driven by a magpie's insatiable curiosity, hunger for knowledge, and a passion to cultivate a diverse portfolio of projects. I embrace the philosophy that knowledge should be freely accessible to all, much like a raven's call echoing through the forest. Currently, I'm relearning Python following the Python for Everybody course. Python for Everybody, conceived by Dr. Charles Severance, is akin to a gathering of crows sharing their knowledge freely across the forest, embodying the philosophy that learning programming should be accessible to all. With FreeCodeCamp, I'm honing my coding skills with the belief that learning should be unbounded and accessible to anyone eager to explore the world of programming. Additionally, I'm navigating the complexities of web development through The Odin Project, where every line of code is like a feather meticulously placed to build robust and beautiful digital nests.
 
